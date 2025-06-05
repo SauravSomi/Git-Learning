@@ -14,3 +14,6 @@ const Footer = "footer added in website";
 console.log(Footer)
 
 console.log("latest update")
+
+//i am fixing some bug
+console.log("bug fixed")
